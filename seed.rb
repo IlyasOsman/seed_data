@@ -934,28 +934,28 @@ Store.create([
     {
         id: 93,
         name: "Amazon",
-        price: 1900,
-        fee: 2000,
-        link: "https://www.amazon.com/s?k=active+subwoofer&adgrpid=76797029450&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HALtXSyqpNOLCRUTmDFpPxuSPVhVvZgSY0rqBciHPNmJ6ynvULwc00aAm10EALw_wcB&hvadid=585359103561&hvdev=c&hvlocphy=9076828&hvnetw=g&hvqmt=b&hvrand=16061860676438277598&hvtargid=kwd-25172106&hydadcr=2749_13541859&tag=hydglogoo-20&ref=pd_sl_6xhzq1o9z6_b",
-        reviews: 4.0,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 31 
       },
       {
         id: 94,
         name: "Jumia",
-        price: 2800,
-        fee: 112,
-        link: "https://www.jumia.co.ke/amtec-sub-woofer-sound-system-btusbfm-4000-watts-73843371.html",
-        reviews: 4.0,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 31 
       },
       {
         id: 95,
-        name: "Kilimall",
-        price: 3700,
-        fee: 300,
-        link: "https://www.kilimall.co.ke/new/goods/17726796?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HAzDDiITkKMV9j-eM6H2YHIbTGNYyQhQX9K3I8kcR2PNICOGksa05waAj2IEALw_wcB",
-        reviews: 4.5,
+        name: "Ebay",
+        price: ,
+        fee: ,
+        link: "",
+        reviews:,
         product_id: 31 
       },
 
@@ -963,59 +963,59 @@ Store.create([
 
     {
         id: 96 ,
-        name: "KiliMall",
-        price: 299,
-        fee: 100,
-        link: "https://www.kilimall.co.ke/new/goods/1375628-10pcsSet-Makeup-Brushes-PowderEyeShadowFoundationConcealerBrush-Makeup-Tools-Beauty-Small-Size",
-        reviews: 4.5,
+        name: "Amazon",
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 32 
       },
       {
         id: 97 ,
         name: "Jumia",
-        price: 450,
-        fee: 100,
-        link: "https://www.jumia.co.ke/fashion-10pcs-makeup-brushes-makeup-tools-gold-52963366.html",
-        reviews: 0,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 32
       },
       {
         id: 98,
-        name: "Amazon",
-        price: 1200,
-        fee: 1000,
-        link: "https://www.amazon.com/Adpartner-Cosmetic-Professional-Foundation-Concealer/dp/B07R565JFF",
-        reviews: 4.3 ,
+        name: "Ebay",
+        price: ,
+        fee: ,
+        link: "",
+        reviews:,
         product_id: 32
       },
 
-      # product_id = 33
+       # product_id = 33
 
     {
         id: 99,
         name: "Amazon",
-        price: 1200,
-        fee: 300,
-        link: "https://www.amazon.com/HP-64GB-Flash-Drive-v250w/product-reviews/B00AWJE4WO",
-        reviews: 4.5,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 33
       },
       {
         id: 100,
         name: "Jumia",
-        price: 699,
-        fee: 112,
-        link: "https://www.jumia.co.ke/hp-v250w-flash-disk-with-clip-64gb-silver-29523695.html",
-        reviews: 4.1,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 33
       },
       {
         id: 101,
         name: "Ebay",
-        price: 1200,
-        fee: 200,
-        link: "https://www.ebay.com/itm/155065741986",
-        reviews: 4.6,
+        price: ,
+        fee: ,
+        link: "",
+        reviews:,
         product_id: 33
       },
     
@@ -1025,60 +1025,30 @@ Store.create([
     {
         id: 102,
         name: "Amazon",
-        price: 760,
-        fee: 1000,
-        link: "https://www.amazon.co.uk/Maybelline-Fit-Luminous-Smooth-Primer/dp/B092K24B2Q",
-        reviews: 4.7,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 34 
       },
       {
         id: 103,
         name: "Jumia",
-        price: 1150,
-        fee: 112,
-        link: "https://www.jumia.co.ke/maybelline-fit-me-hydrating-primer-luminous-and-smooth-43716989.html",
-        reviews: 4.9,
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
         product_id: 34 
       },
       {
         id: 104,
         name: "Ebay",
-        price: 1000,
-        fee: 500,
-        link: "https://www.ebay.com/itm/183114442561",
-        reviews: 4.3,
+        price: ,
+        fee: ,
+        link: "",
+        reviews:,
         product_id: 34 
       },
-
-      # product_id = 35
-
-    {
-      id: 153,
-      name: "Amazon",
-      price: 23999,
-      fee: 2000,
-      link: "https://www.amazon.com/Security-Wireless-Surveillance-Cameras-Tracking/dp/B09V2RPX4C?ref_=Oct_d_old_d_524136_3&pd_rd_w=EYsdf&content-id=amzn1.sym.d6a81112-5cc2-4e11-9d89-e9f1e9c2eea0&pf_rd_p=d6a81112-5cc2-4e11-9d89-e9f1e9c2eea0&pf_rd_r=5CRR058DVFRA9BZF6G7S&pd_rd_wg=724SC&pd_rd_r=d73d5a9a-96c5-4607-9564-c65ef490137d",
-      reviews: 4.1,
-      product_id: 35 
-    },
-    {
-      id: 154,
-      name: "Jumia",
-      price: 18300,
-      fee: 400,
-      link: "https://www.jumia.co.ke/intelligence-4g-solar-camera-ptz-360-colored-at-night-record-audio-67321431.html",
-      reviews: 0,
-      product_id: 35 
-    },
-    {
-      id: 155,
-      name: "Ebay",
-      price: 24000,
-      fee: 3000,
-      link: "https://www.ebay.com/b/Home-Security-Cameras-with-Auto-Motion-Tracking/48638/bn_7116576418",
-      reviews: 4.1,
-      product_id: 35
-    },
 
     # product_id = 36
 
@@ -1355,37 +1325,28 @@ Store.create([
     {
         id: 132,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
-        product_id: 45
-      },
-      {
-        id: 133,
-        name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 679,
+        fee: 150,
+        link: "https://www.amazon.co.uk/Hshi-Backlight-Waterproof-Watches-Glowing/dp/B07KXW9394",
+        reviews: 4.5,
         product_id: 45
       },
       {
         id: 134,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 490,
+        fee: 50,
+        link: "https://www.jumia.co.ke/geneva-men-watches-quartz-wrist-watch-led-backlight-47301837.html",
+        reviews: 4.0,
         product_id: 45
       },
       {
         id: 135,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 590,
+        fee: 300,
+        link: "https://www.ebay.com/b/Geneva-Wristwatches-with-Backlight/31387/bn_5741588",
+        reviews: 3.0,
         product_id: 45
       },
 
@@ -1394,28 +1355,28 @@ Store.create([
     {
         id: 136,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 25999,
+        fee: 300,
+        link: "https://www.amazon.com/Samsung-A13-5000mAh-Battery-T-Mobile/dp/B09TZC4LW4",
+        reviews: 4.5,
         product_id: 46
       },
       {
         id: 137,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 19999,
+        fee: 100,
+        link: "https://www.jumia.co.ke/samsung-galaxy-a13-6.6-64gb-4gb-ram-dual-sim-5000mah-black-63728768.html",
+        reviews: 4.5,
         product_id: 46
       },
       {
         id: 138,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 23999,
+        fee: 400,
+        link: "https://www.ebay.com/itm/224908533492",
+        reviews: 4.5,
         product_id: 46
       },
 
@@ -1424,28 +1385,28 @@ Store.create([
     {
         id: 139,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 2500,
+        fee: 400,
+        link: "https://www.amazon.com/NIVEA-Cellular-Luminous630-Dark-Spot-Night/dp/B09NDWMB89",
+        reviews: 4.5,
         product_id: 47
       },
       {
         id: 140,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 1032,
+        fee: 50,
+        link: "https://www.jumia.co.ke/nivea-perfect-radiant-even-tone-day-and-night-cream-for-women-68528030.html",
+        reviews: 4.5,
         product_id: 47
       },
       {
         id: 141,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 5000,
+        fee: 300,
+        link: "https://www.ebay.com/itm/403554630168?hash=item5df5bafa18:g:x-MAAOSwpOdiN431&amdata=enc%3AAQAHAAAA0Lhg6VENKfggQ7zBzJCRPFETl4Bmb34HQVHntQr3Qe4QMYdgvv88FpPLuQ5dXsSFYrSzbBD%2BQLIpxh4NlKKZ2SOquwRShyaI9ZjY4gJp4q%2FjJ42KWupQZ%2FotXozhI4dZMvkEqiZDLeZIyu4rhDWtur0eeb%2BpA6ieG3R0%2Bhmckyh7IqoafmyFAXLbaGTy0OpALpyYB8y6uHzCkBuewIaitYvMYWbD%2FGoX0p0PfLpeAKJYKofYP0nvMUwnTnnhXzebtcQwc%2ByMCjrNqWyIn5hvAMY%3D%7Ctkp%3ABFBMqvy_7rRh",
+        reviews: 4.5,
         product_id: 47
       },
 
@@ -1454,38 +1415,28 @@ Store.create([
     {
         id: 142,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 9745,
+        fee: 300,
+        link: "https://www.amazon.eg/-/en/adidas-GALAXY-Running-Burgundy-Shadow/dp/B0B2WYG94X",
+        reviews: 4.5,
         product_id: 48
       },
       {
         id: 143,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 6529,
+        fee: 150,
+        link: "https://www.jumia.co.ke/adidas-galaxy-6-shoes-men-94263374.html",
+        reviews: 4.0,
         product_id: 48
       },
       {
         id: 144,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
-        product_id: 48
-      },
-
-      {
-        id: 145,
-        name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 9500,
+        fee: 200,
+        link: "https://www.ebay.com/itm/155316327936",
+        reviews: 4.5,
         product_id: 48
       },
 
@@ -1495,19 +1446,19 @@ Store.create([
     {
         id: 146,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
+        price: 1700,
+        fee: 200,
+        link: "https://www.amazon.com/Bluetooth-Wireless-Headphones-Control-Earphones/dp/B09WZBZS9S",
         reviews: ,
         product_id: 49
       },
       {
         id: 147,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 790,
+        fee: 50,
+        link: "https://www.jumia.co.ke/generic-f9-touch-bluetooth-earphones-headphones-2000mah-29014071.html",
+        reviews: 4.5,
         product_id: 49
       },
 
@@ -1516,325 +1467,334 @@ Store.create([
     {
         id: 148,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 800,
+        fee: 100,
+        link: "https://www.amazon.com/QJLE-Diamond-Zirconia-Engagement-Solitaire/dp/B07R7GMKGR/ref=sr_1_1?c=ts&keywords=Women%27s+Engagement+Rings&qid=1673543507&refinements=p_n_feature_twenty-nine_browse-bin%3A17595790011&s=apparel&sr=1-1&ts_id=9539896011",
+        reviews: 3.5,
         product_id: 50
       },
       {
         id: 149,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 199,
+        fee: 50,
+        link: "https://www.jumia.co.ke/fashion-ladies-fashion-zircon-diamond-pair-wedding-ring-accessories-gold-53704208.html",
+        reviews: 3.5,
         product_id: 50
       },
       {
         id: 150,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 300,
+        fee: 150,
+        link: "https://www.ebay.com/itm/313357561235",
+        reviews: 3.5,
         product_id: 50
       },
 
     # product_id = 51 
-
     {
-      id: 151,
+      id: 148,
       name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 2000,
+      fee: 100,
+      link: "https://www.amazon.com/Agarwood-Indonesia-Fragrance-Swiss-Arabian/dp/B07NJJWB2F",
+      reviews: 4.5,
       product_id: 51
     },
     {
-      id: 152,
+      id: 149,
       name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 1900,
+      fee: 100,
+      link: "https://www.jumia.co.ke/adopt-blue-suit-edp-100ml-47914920.html",
+      reviews: 4.5,
+      product_id: 51
+    },
+    {
+      id: 150,
+      name: "Ebay",
+      price: 2500,
+      fee: 200,
+      link: "https://www.ebay.com/b/Swiss-Arabian-Perfume-Unisex-Fragrances/112661/bn_7115566387",
+      reviews: 3.5,
       product_id: 51
     },
 
     # product_id = 52 
-
-    # id 153, 154 , 155 is product_id = 35
-
     {
-      id: 156,
+      id: 148,
       name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 4356,
+      fee: 159,
+      link: "https://www.amazon.in/Generic-Electric-Automatic-Toaster-Sandwich/dp/B07FP74G9J",
+      reviews: 3.5,
       product_id: 52
     },
     {
-      id: 157,
+      id: 149,
       name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 3324,
+      fee: 139,
+      link: "https://www.jumia.co.ke/generic-electric-automatic-2-slice-bread-toaster-10278495.html",
+      reviews: 4.0,
       product_id: 52
     },
     {
-      id: 158,
+      id: 150,
       name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
-      product_id: 52
+      price: 3460,
+      fee: 234,
+      link: "https://www.ebay.com/b/2-Slices-Toasters/77285/bn_7112504003",
+      reviews:3.0,
+      product_id: 50
     },
-
 
     # product_id = 53
-
     {
-      id: 159,
+      id: 148,
       name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 3500,
+      fee: 200,
+      link: "https://www.amazon.com/Backpack-Laptop-School-Travel-Shoulder/dp/B09QPH99H9",
+      reviews: 4.5,
       product_id: 53
     },
     {
-      id: 160,
+      id: 149,
       name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 1092,
+      fee: 100,
+      link: "https://www.jumia.co.ke/fashion-3pcsset-shoulder-bag-school-book-bag-backpack-33033418.html",
+      reviews: 4.5,
       product_id: 53
     },
     {
-      id: 161,
+      id: 150,
       name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
+      price: 2400,
+      fee: 300,
+      link: "https://www.amazon.com/Backpack-Laptop-School-Travel-Shoulder/dp/B09QPH99H9",
+      reviews: 4.0,
       product_id: 53
     },
-
 
     # product_id = 54 
     {
-      id: 162,
+      id: 148,
       name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 3500,
+      fee: 200,
+      link: "https://www.amazon.com/Generic-Studded-Bootie-Fashionable-Comfortable/dp/B09JFV6VY8",
+      reviews: 4.5,
       product_id: 54
     },
     {
-      id: 163,
+      id: 149,
       name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 2395,
+      fee: 100,
+      link: "https://www.jumia.co.ke/ladies-casual-boots-generic-mpg396682.html",
+      reviews: 3.5,
       product_id: 54
     },
     {
-      id: 164,
+      id: 150,
       name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
+      price: 2600,
+      fee: 300,
+      link: "https://www.ebay.com/b/Casual-Boots-for-Women/53557/bn_871060",
+      reviews: 3.5,
       product_id: 54
     },
-
 
     # product_id = 55 
     {
-      id: 165,
+      id: 148,
       name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 170000,
+      fee: 200,
+      link: "https://www.amazon.com/Galanz-GLR16FWEE16-3-French-Refrigerator-White/dp/B0B6BSMRSS/ref=sr_1_3?c=ts&keywords=Refrigerators&qid=1673546224&rnid=2528832011&s=appliances&sr=1-3&ts_id=3741361",
+      reviews: 4.5,
       product_id: 55
     },
     {
-      id: 166,
+      id: 149,
       name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
+      price: 154995,
+      fee: 100,
+      link: "https://www.jumia.co.ke/samsung-rt60k6341sl-fridge-top-mount-freezer-silver-24622850.html",
+      reviews: 4.5,
       product_id: 55
     },
     {
-      id: 167,
+      id: 150,
       name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
+      price: 200000,
+      fee: 300,
+      link: "https://www.ebay.com/itm/175554788122?hash=item28dfe17b1a:g:f1IAAOSwQ-xjrgds&amdata=enc%3AAQAHAAAA0D5zPk21Ey2Rxw09sLNxgA%2BifeIh8co4yHIr8FncO5in7yPaI59kZjF42stdLbHW9L%2BOirW6Ix%2FnlqXZnrny3nWiv4Wy1xgJQGPHJaI9405kvfdFRho1PzQwqbACwkioqoyEeBVac6uropx0wINa2%2FnAGqw2P5g6injFOsVOKNtsFonnUFhlIFNYLTJAvAmAXhx%2Be2UzpxPbprx%2FdWJBAFTb89TLXYtRSI459NZWPQ2gjVQPbY2x2X1gpsACpX2iKDsE5VyOLwndaZqUx8eqdZE%3D%7Ctkp%3ABFBMwt-L8rRh",
+      reviews: 4.5,
       product_id: 55
-    },
+    }
 
+    # # product_id = 56
+    # {
+    #   id: 148,
+    #   name: "Amazon",
+    #   price: ,
+    #   fee: ,
+    #   link: "",
+    #   reviews: ,
+    #   product_id: 50
+    # },
+    # {
+    #   id: 149,
+    #   name: "Jumia",
+    #   price: ,
+    #   fee: ,
+    #   link: "",
+    #   reviews: ,
+    #   product_id: 50
+    # },
+    # {
+    #   id: 150,
+    #   name: "Ebay",
+    #   price: ,
+    #   fee: ,
+    #   link: "",
+    #   reviews:,
+    #   product_id: 50
+    # },
 
-    # product_id = 56
-    {
-      id: 168,
-      name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 56
-    },
-    {
-      id: 169,
-      name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 56
-    },
-    {
-      id: 170,
-      name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
-      product_id: 56
-    },
-
-
-    # product_id = 57
-
-    {
-      id: 171,
-      name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 57
-    },
-    {
-      id: 172,
-      name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 57
-    },
-    {
-      id: 173,
-      name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
-      product_id: 57
-    },
-
+    # # product_id = 57
+    # {
+    #   id: 148,
+    #   name: "Amazon",
+    #   price: ,
+    #   fee: ,
+    #   link: "",
+    #   reviews: ,
+    #   product_id: 50
+    # },
+    # {
+    #   id: 149,
+    #   name: "Jumia",
+    #   price: ,
+    #   fee: ,
+    #   link: "",
+    #   reviews: ,
+    #   product_id: 50
+    # },
+    # {
+    #   id: 150,
+    #   name: "Ebay",
+    #   price: ,
+    #   fee: ,
+    #   link: "",
+    #   reviews:,
+    #   product_id: 50
+    # },
 
     # product_id = 58 
-
-    {
-      id: 174,
-      name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 58
-    },
-    {
-      id: 175,
-      name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 58
-    },
-    {
-      id: 176,
-      name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
-      product_id: 58
-    },
-
+    
 
     # product_id = 59
 
-    {
-      id: 177,
-      name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 59
-    },
-    {
-      id: 178,
-      name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 59
-    },
-    {
-      id: 179,
-      name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
-      product_id: 59
-    },
+    # product_id = 60 
+
+    # product_id = 61
+
+    # product_id = 62 
+
+    # product_id = 63
+    
+    # product_id = 64 
+    
+    # product_id = 65
+
+    # product_id = 66
+
+    # product_id = 67
+
+    # product_id = 68
+
+    # product_id = 69
+
+    # product_id = 71
 
 
-    # product_id = 60
+    # product_id = 72
 
-    {
-      id: 180,
-      name: "Amazon",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 60
-    },
-    {
-      id: 181,
-      name: "Jumia",
-      price: ,
-      fee: ,
-      link: "",
-      reviews: ,
-      product_id: 60
-    },
-    {
-      id: 182,
-      name: "Ebay",
-      price: ,
-      fee: ,
-      link: "",
-      reviews:,
-      product_id: 60
-    },
+
+    # product_id = 73
+
+    # product_id = 74
+
+    # product_id = 75
+
+    # product_id = 76
+
+
+    # product_id = 77
+
+
+    # product_id = 78
+
+
+    # product_id = 79
+
+
+    # product_id = 80
+
+    # product_id = 81
+
+    # product_id = 82
+
+
+    # product_id = 83
+
+    # product_id = 84
+
+    # product_id = 85
+
+    # product_id = 86
+
+    # product_id = 87
+
+    # product_id = 89
+
+    # product_id = 90
+
+    # product_id = 91
+
+    # product_id = 92
+
+    # product_id = 93
+
+    # product_id = 94
+    
+    # product_id = 95
+
+    # product_id = 96
+
+    # product_id = 97
+
+    # product_id = 98
+    
+    # product_id = 99
+
+    # product_id = 100
+
+    # product_id = 101
+
+    # product_id = 102
+
+    # product_id = 103
+
+    # product_id = 104
+
+    # product_id = 105
+
+])
+
+puts "Done seeding"

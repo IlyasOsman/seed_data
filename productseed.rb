@@ -446,76 +446,62 @@ Product.create([
 
     {
         id: 31,
-        title: "Sub Woofer",
-        price: 2800,
-        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/334837/1.jpg?1153",
-        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/334837/2.jpg?1153",
-        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/334837/1.jpg?1153",
+        title: "",
+        price: ,
+        image01: "",
+        image02: "",
+        image03: "",
         category: "Electronics",
     
-        desc: "Amtec AM 808 2.1ch Subwoofer System is a brand from AMTEC with an amazing sound, Bluetooth ,USB ,FM, and super bass surround sound.
-
-        It brings your living room to life with this stylish subwoofer from AMTEC. This sound system is designed for the extreme entertainment lovers to enjoy their amazing music and movies with sound clarity never heard before. Place your order for this amazing sound system from Jumia Kenya and have it delivered to your doorstep at an amazing price
-        
-        It works as expected with a nice clarity and a thumping bass. Comprised of exclusive technologies to deliver an epic performance, It has an acoustically perfected design - making it ideal for high-performance home audio configurations. It is the perfect combination of power, sophisticated and heart-pounding bass." 
+        desc: "" 
     } ,
 
     {
         id: 32,
-        title: "Makeup Brushes",
-        price: 299,
-        image01: "https://image.kilimall.com/kenya/shop/store/goods/1482/2019/08/1482_06180611438678837_720.jpg.webp",
-        image02: "https://image.kilimall.com/kenya/shop/store/goods/1482/2019/08/1482_06180611603095381_720.jpg.webp",
-        image03: "https://image.kilimall.com/kenya/shop/store/goods/1482/2019/08/1482_06180611786525007_720.jpg.webp",
+        title: "",
+        price: ,
+        image01: "",
+        image02: "",
+        image03: "",
         category: "Beauty",
     
-        desc: "10Pcs/Set Makeup Brushes Powder/Eye Shadow/Foundation/Concealer Brush Makeup Tools Small Size
-
-        Material: Synthetic Fiber
-        
-        Length:14cm
-        
-        Packing: 10Pcs" 
+        desc: "" 
     } ,
 
     {
         id: 33,
-        title: "Flash Disk",
-        price: 699,
-        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/632592/1.jpg?6933",
-        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/632592/2.jpg?6933",
-        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/632592/2.jpg?6933",
+        title: "",
+        price: ,
+        image01: "",
+        image02: "",
+        image03: "",
         category: "Electronics",
     
-        desc: "The HP 64GB Flash-disk makes it easy for you to backup your documents and multimedia files. All your files stored on it will be safe and can be easily retrieved anytime you need it. This flash drive is compatible for use on other devices like home theater systems, televisions and more. File transfer is done at a very fast rate when using this flash drive. It has a 64GB capacity which means you have adequate amount of storage space for all your important files. This HP flash drive protects your files from viruses that creep up during transfers to and from computers. It also supports energy saving mode and there is no need for external power supply." 
+        desc: "" 
     } ,
 
     {
         id: 34,
-        title: "Hydrating Primer",
-        price: 1150,
-        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/961734/1.jpg?0384",
-        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/961734/2.jpg?0384",
-        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/961734/3.jpg?0384",
+        title: "",
+        price: ,
+        image01: "",
+        image02: "",
+        image03: "",
         category: "Beauty",
     
-        desc: "Fit Me Matte + Poreless Primer with SPF 20 controls shine, blurs pores and extends the wear of makeup to keep your look locked in all day. The result is an instant mattifying effect that lasts up to 16 hours and poreless and flawless-looking skin. This face primer creates a smooth canvas for your makeup application and enhances the overall look of your makeup. Created to instantly perfect and fit all skin tones and types. Maybelline Fit Me Primer can be worn with or without foundation.
-
-        Maybelline New York - Fit Me Matte and Poreless primer is a melting gel cream primer that fits skin texture for a longer lasting flawless matte look. The Fit me matte + poreless primer makeup is best suited for normal to oily skin. The Maybelline Fit Me Matte and Poreless primer for oily skin has blurring powders that absorbs and controls oil. The primer fits skin texture to enhance the look of make up, diminishes look of pores, holds foundation for up to 16 hrs. and gives matte make up finish all day long. 
-        
-        It is an up to 16H mattifying face primer that instantly controls shine and blur pores for flawless-looking skin. Can be worn with or without makeup." 
+        desc: "" 
     } ,
 
     {
         id: 35,
-        title: "ccTv",
-        price: 23000,
-        image01: "https://m.media-amazon.com/images/I/81TDyFC1c6L._AC_SY355_.jpg",
-        image02: "https://m.media-amazon.com/images/I/81K+P8cgzNL._AC_SY355_.jpg",
-        image03: "https://m.media-amazon.com/images/I/71h6K89QWVL._AC_SY355_.jpg",
+        title: "",
+        price: ,
+        image01: "",
+        image02: "",
+        image03: "",
         category: "Electronics",
     
-        desc: "Human Body Detection & Audible and Visual Alarms.: HD Video without Fog & Color Night Vision: 4 bright white floodlights and 6 IR lights can clearly see every detail in the surveillance even in extreme darkness with infinite night vision range.  " 
+        desc: "" 
     } ,
 
     {
@@ -628,196 +614,215 @@ Product.create([
 
     {
         id: 45,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Geneva Men Watches Quartz Wrist Watch LED Backlight",
+        price: 490,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/810374/1.jpg?2588",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/810374/2.jpg?6108",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/73/810374/3.jpg?6108",
         category: "Fashion",
     
-        desc: "" 
+        desc: "Men Watches Quartz Wrist Watch LED Backlight
+        Movement: Quartz WatchSurface Diameter: 4.3CMDial Thickness: 1.4CMStrap Width: 2.2CMStrap Length: 21CMColor: BlackWeight: 41GPacking: Watch x 1 , Poly Bag (No Box)Note: 1. Normal Waterproof2. There is no box for the watch. 3. Due to the different monitor and light effect, the actual color of the item might be slightly different from the color showed on the pictures. 4. Please allow 1-3cm measuring deviation due to manual measurement." 
     } ,
 
     {
         id: 46,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Samsung Galaxy A13, 6.6", 64GB + 4GB RAM (Dual SIM), 5000mAh, Black",
+        price: 19999,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/782736/1.jpg?3156",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/782736/2.jpg?3156",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/782736/3.jpg?3156",
         category: "Electronics",
     
-        desc: "" 
+        desc: 'Samsung Galaxy A13 combines streamlined design aesthetics with classic colors. Refined curves make it comfortable to hold and provides easy screen navigation. Expand your view to the 6.6-inch Infinity-V Display of Galaxy A13 and see what you've been missing. Thanks to HD+ technology, your everyday content looks sharp, crisp and clear.  Similar to human eye sight, the 50MP Ultra Wide Camera sees the world with a 123-degree angle of view, adding more perspective to everything you shoot. Comes with 4GB RAM, 64GB ROM, Android 12.0 OS and is powered by a Powerful 2.0 GHz Octa-Core Processor. Order for this Samsung Galaxy A13 online from Jumia Kenya and have it delivered to your doorstep 
+        at an amazing price'
     } ,
 
     {
         id: 47,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "NIVEA Perfect & Radiant Even Tone Day And Night Cream For Women",
+        price: 1032,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/03/082586/1.jpg?3405",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/03/082586/3.jpg?3407",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/03/082586/4.jpg?3408",
         category: "Beauty",
     
-        desc: "" 
+        desc: "NIVEA Perfect & Radiant Even Tone Day Cream SPF 15 enriched with Eventone Pure Active, Vitamin E and SPF 15 works to gradually enhance skin complexion and visibly reduce the appearance of dark marks, while protecting your skin from harmful effects of the sun. 
+
+        NIVEA Perfect & Radiant Even Tone Night Cream enriched with Eventone Pure Active, Pearl Extract & Vitamin C works during the night to support the skin's natural renewal process and rejuvenate the skin. It visibly restores even skin tone, enhances skin complexion and reduces the appearance of dark marks. " 
     } ,
 
     {
         id: 48,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Adidas Galaxy 6 Shoes Men",
+        price: 6529,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/47/336249/1.jpg?1016",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/47/336249/2.jpg?1016",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/47/336249/3.jpg?1016",
         category: "Fashion",
     
-        desc: "" 
+        desc: "Lace up and go. These adidas running shoes will keep you comfortable, however late your day runs. A great everyday shoe, they have a light and airy mesh upper to keep your feet cool and a Cloudfoam midsole for springiness. The rubber outsole is designed to stay firm across all surfaces, from wet grass to slow clay. Switch up your plans without changing your shoes" 
     } ,
 
     {
         id: 49,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Generic F9 Touch Bluetooth Earphones Headphones 2000mAh",
+        price: 790,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/041092/1.jpg?3025",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/041092/2.jpg?3025",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/041092/4.jpg?3025",
         category: "Electronics",
     
-        desc: "" 
+        desc: "True wireless stereo, HIFI sound.♦ Both the left and right ears have full Bluetooth headset functionality and can be used individually or in pairs.♦ Dual mode Bluetooth 5.0, ultra low power consumption.♦ Bluetooth transmission distance: 10 meters barrier-free.♦ Listening to song time: about 4-5 hours♦ Battery capacity (charge box): Built-in 2000mAh large capacity battery. " 
     } ,
 
     {
         id: 50,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Fashion Ladies Fashion Zircon Diamond Pair Wedding Ring Accessories - Gold",
+        price: 199,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/80/240735/3.jpg?5473",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/80/240735/2.jpg?5473",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/80/240735/1.jpg?5473",
         category: "Fashion",
     
-        desc: "" 
+        desc: "Product Information Name:women Fashio Rings Number:CS H045 Material:alloy,zircon diamond Color :gold Packing :1 piece*ring Size: 6,7,8,9 Weight: about 9.5g Origin: Made in China A good choice for gifts or decorations " 
     } ,
 
     {
         id: 51,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Adopt Blue Suit EDP 100ml",
+        price: 1900,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/02/941974/2.jpg?1263",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/02/941974/2.jpg?1263",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/02/941974/1.jpg?1068",
         category: "Beauty",
     
-        desc: "" 
+        desc: "Dressed in its slender suit, let yourself be charmed by the new eau de parfum Blue suit, with its unmatched masculinity.In an elegant harmony of apple and grapefruit, Blue suit first reveals a piquant and seductive freshness, as a captivating gentleman. Its spicy heart of violet leaves reveals a fragrance of radiant and flamboyant charm." 
     } ,
 
     {
         id: 52,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Generic Electric Automatic 2 Slice Bread Toaster
+        ",
+        price: 3324,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/487201/1.jpg?6710",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/487201/1.jpg?6710",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/487201/1.jpg?6710",
         category: "Electronics",
     
-        desc: "" 
+        desc: "Automatic toaster with voltage range of 230V/50Hz,made of metal shell plastic knobs/handles (PBT) and also a stainless steel casing.Make breakfast easy and fun.Order yours from Jumia Kenya and have it delivered to your doorstep" 
     } ,
 
     {
         id: 53,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Fashion 3pcs/set Shoulder Bag School Book Bag Backpack",
+        price: 1092,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/433033/1.jpg?7287",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/433033/2.jpg?7287",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/433033/5.jpg?7287",
         category: "Fashion",
     
-        desc: "" 
+        desc: "Specifications:
+
+        Colors: Black, Dark Blue, Brown, Red, Grey
+        
+        Fabric: 50% Cation 50% Polyester Oxford
+        
+        Lining Material: Polyester
+        
+        Backpack Size: 30cm/11.81''x16cm/6.30''x46cm/18.11''
+        
+        Shoulder Bag Size: 20cm/7.87''x6cm/2.36''x24cm/9.45''
+        
+        Money Bag Size: 19cm/7.48''x2cm/0.79''x12cm/4.72''
+        
+        Type: 3pcs/set, Backpack & Shoulder Bag & Money Bag" 
     } ,
 
     {
         id: 54,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Generic Ladies Casual Boots",
+        price: 2395,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/576443/1.jpg?3935",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/576443/1.jpg?3935",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/576443/1.jpg?3935",
         category: "Fashion",
     
-        desc: "" 
+        desc: "The shoe has made a transition from an athletic necessity to a total fashion do. The mens sport shoes are stylish from every angle combining comfort, classic vintage style, and athletic history in its design. Combining fashion fabrics like PVC with vintage sport sensibilities, these shoes can be paired up with almost any outfit. With their unique shape, colour scheme and their cool pattern, these shoes make a statement all on their own. Let them do the talking" 
     } ,
 
     {
         id: 55,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Samsung RT60K6341SL, Fridge Top Mount Freezer - Silver",
+        price: 154995,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/05/822642/1.jpg?2400",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/05/822642/2.jpg?8486",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/05/822642/2.jpg?8486",
         category: "Electronics",
     
-        desc: "" 
-    } ,
-
-    {
-        id: 56,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
-        category: "Beauty",
-    
-        desc: "" 
-    } ,
-
-    {
-        id: 57,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
-        category: "Electronics",
-    
-        desc: "" 
-    } ,
-
-    {
-        id: 58,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
-        category: "Fashion",
-    
-        desc: "" 
-    } ,
-
-    {
-        id: 59,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
-        category: "Beauty",
-    
-        desc: "" 
-    } ,
-
-    {
-        id: 60,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
-        category: "Electronics",
-    
-        desc: "" 
+        desc: "SAMSUNG RT60K6341SL, Twin Cooling Plus - Separate Cooling in both Freezer and Refrigerator Compartments Power Freeze Function & Power cool function No Frost Technology Move able twist ice tray Multi storage basket In-built cool pack Chiller compartment Fridge vacation mode Tempered Glass Shelves Silver finish the best home appliances with quality, durable and efficient home appliances. which is efficient, durable and easy to use. So when looking for that great refrigerator, look no further, SAMSUNG is the way to go. Place your order for this amazing product from Jumia Kenya and have it delivered to your doorstep at an amazing price" 
     } 
+
+    # {
+    #     id: 56,
+    #     title: "",
+    #     price: ,
+    #     image01: "",
+    #     image02: "",
+    #     image03: "",
+    #     category: "Beauty",
+    
+    #     desc: "" 
+    # } ,
+
+    # {
+    #     id: 57,
+    #     title: "",
+    #     price: ,
+    #     image01: "",
+    #     image02: "",
+    #     image03: "",
+    #     category: "Electronics",
+    
+    #     desc: "" 
+    # } ,
+
+    # {
+    #     id: 58,
+    #     title: "",
+    #     price: ,
+    #     image01: "",
+    #     image02: "",
+    #     image03: "",
+    #     category: "Fashion",
+    
+    #     desc: "" 
+    # } ,
+
+    # {
+    #     id: 59,
+    #     title: "",
+    #     price: ,
+    #     image01: "",
+    #     image02: "",
+    #     image03: "",
+    #     category: "Beauty",
+    
+    #     desc: "" 
+    # } ,
+
+    # {
+    #     id: 60,
+    #     title: "",
+    #     price: ,
+    #     image01: "",
+    #     image02: "",
+    #     image03: "",
+    #     category: "Electronics",
+    
+    #     desc: "" 
+    # } 
     
     
     
-    ])
+    # ])
