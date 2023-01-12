@@ -934,28 +934,28 @@ Store.create([
     {
         id: 93,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 1900,
+        fee: 2000,
+        link: "https://www.amazon.com/s?k=active+subwoofer&adgrpid=76797029450&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HALtXSyqpNOLCRUTmDFpPxuSPVhVvZgSY0rqBciHPNmJ6ynvULwc00aAm10EALw_wcB&hvadid=585359103561&hvdev=c&hvlocphy=9076828&hvnetw=g&hvqmt=b&hvrand=16061860676438277598&hvtargid=kwd-25172106&hydadcr=2749_13541859&tag=hydglogoo-20&ref=pd_sl_6xhzq1o9z6_b",
+        reviews: 4.0,
         product_id: 31 
       },
       {
         id: 94,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 2800,
+        fee: 112,
+        link: "https://www.jumia.co.ke/amtec-sub-woofer-sound-system-btusbfm-4000-watts-73843371.html",
+        reviews: 4.0,
         product_id: 31 
       },
       {
         id: 95,
-        name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        name: "Kilimall",
+        price: 3700,
+        fee: 300,
+        link: "https://www.kilimall.co.ke/new/goods/17726796?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HAzDDiITkKMV9j-eM6H2YHIbTGNYyQhQX9K3I8kcR2PNICOGksa05waAj2IEALw_wcB",
+        reviews: 4.5,
         product_id: 31 
       },
 
@@ -963,59 +963,59 @@ Store.create([
 
     {
         id: 96 ,
-        name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        name: "KiliMall",
+        price: 299,
+        fee: 100,
+        link: "https://www.kilimall.co.ke/new/goods/1375628-10pcsSet-Makeup-Brushes-PowderEyeShadowFoundationConcealerBrush-Makeup-Tools-Beauty-Small-Size",
+        reviews: 4.5,
         product_id: 32 
       },
       {
         id: 97 ,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 450,
+        fee: 100,
+        link: "https://www.jumia.co.ke/fashion-10pcs-makeup-brushes-makeup-tools-gold-52963366.html",
+        reviews: 0,
         product_id: 32
       },
       {
         id: 98,
-        name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        name: "Amazon",
+        price: 1200,
+        fee: 1000,
+        link: "https://www.amazon.com/Adpartner-Cosmetic-Professional-Foundation-Concealer/dp/B07R565JFF",
+        reviews: 4.3 ,
         product_id: 32
       },
 
-       # product_id = 33
+      # product_id = 33
 
     {
         id: 99,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 1200,
+        fee: 300,
+        link: "https://www.amazon.com/HP-64GB-Flash-Drive-v250w/product-reviews/B00AWJE4WO",
+        reviews: 4.5,
         product_id: 33
       },
       {
         id: 100,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 699,
+        fee: 112,
+        link: "https://www.jumia.co.ke/hp-v250w-flash-disk-with-clip-64gb-silver-29523695.html",
+        reviews: 4.1,
         product_id: 33
       },
       {
         id: 101,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 1200,
+        fee: 200,
+        link: "https://www.ebay.com/itm/155065741986",
+        reviews: 4.6,
         product_id: 33
       },
     
@@ -1025,30 +1025,60 @@ Store.create([
     {
         id: 102,
         name: "Amazon",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 760,
+        fee: 1000,
+        link: "https://www.amazon.co.uk/Maybelline-Fit-Luminous-Smooth-Primer/dp/B092K24B2Q",
+        reviews: 4.7,
         product_id: 34 
       },
       {
         id: 103,
         name: "Jumia",
-        price: ,
-        fee: ,
-        link: "",
-        reviews: ,
+        price: 1150,
+        fee: 112,
+        link: "https://www.jumia.co.ke/maybelline-fit-me-hydrating-primer-luminous-and-smooth-43716989.html",
+        reviews: 4.9,
         product_id: 34 
       },
       {
         id: 104,
         name: "Ebay",
-        price: ,
-        fee: ,
-        link: "",
-        reviews:,
+        price: 1000,
+        fee: 500,
+        link: "https://www.ebay.com/itm/183114442561",
+        reviews: 4.3,
         product_id: 34 
       },
+
+      # product_id = 35
+
+    {
+      id: 153,
+      name: "Amazon",
+      price: 23999,
+      fee: 2000,
+      link: "https://www.amazon.com/Security-Wireless-Surveillance-Cameras-Tracking/dp/B09V2RPX4C?ref_=Oct_d_old_d_524136_3&pd_rd_w=EYsdf&content-id=amzn1.sym.d6a81112-5cc2-4e11-9d89-e9f1e9c2eea0&pf_rd_p=d6a81112-5cc2-4e11-9d89-e9f1e9c2eea0&pf_rd_r=5CRR058DVFRA9BZF6G7S&pd_rd_wg=724SC&pd_rd_r=d73d5a9a-96c5-4607-9564-c65ef490137d",
+      reviews: 4.1,
+      product_id: 35 
+    },
+    {
+      id: 154,
+      name: "Jumia",
+      price: 18300,
+      fee: 400,
+      link: "https://www.jumia.co.ke/intelligence-4g-solar-camera-ptz-360-colored-at-night-record-audio-67321431.html",
+      reviews: 0,
+      product_id: 35 
+    },
+    {
+      id: 155,
+      name: "Ebay",
+      price: 24000,
+      fee: 3000,
+      link: "https://www.ebay.com/b/Home-Security-Cameras-with-Auto-Motion-Tracking/48638/bn_7116576418",
+      reviews: 4.1,
+      product_id: 35
+    },
 
     # product_id = 36
 
@@ -1332,6 +1362,15 @@ Store.create([
         product_id: 45
       },
       {
+        id: 133,
+        name: "Jumia",
+        price: ,
+        fee: ,
+        link: "",
+        reviews: ,
+        product_id: 45
+      },
+      {
         id: 134,
         name: "Jumia",
         price: ,
@@ -1504,117 +1543,298 @@ Store.create([
 
     # product_id = 51 
 
+    {
+      id: 151,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 51
+    },
+    {
+      id: 152,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 51
+    },
+
     # product_id = 52 
+
+    # id 153, 154 , 155 is product_id = 35
+
+    {
+      id: 156,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 52
+    },
+    {
+      id: 157,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 52
+    },
+    {
+      id: 158,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 52
+    },
+
 
     # product_id = 53
 
+    {
+      id: 159,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 53
+    },
+    {
+      id: 160,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 53
+    },
+    {
+      id: 161,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 53
+    },
+
+
     # product_id = 54 
+    {
+      id: 162,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 54
+    },
+    {
+      id: 163,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 54
+    },
+    {
+      id: 164,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 54
+    },
+
 
     # product_id = 55 
+    {
+      id: 165,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 55
+    },
+    {
+      id: 166,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 55
+    },
+    {
+      id: 167,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 55
+    },
+
 
     # product_id = 56
+    {
+      id: 168,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 56
+    },
+    {
+      id: 169,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 56
+    },
+    {
+      id: 170,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 56
+    },
+
 
     # product_id = 57
 
+    {
+      id: 171,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 57
+    },
+    {
+      id: 172,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 57
+    },
+    {
+      id: 173,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 57
+    },
+
+
     # product_id = 58 
+
+    {
+      id: 174,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 58
+    },
+    {
+      id: 175,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 58
+    },
+    {
+      id: 176,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 58
+    },
+
 
     # product_id = 59
 
-    # product_id = 60 
-
-    # product_id = 61
-
-    # product_id = 62 
-
-    # product_id = 63
-    
-    # product_id = 64 
-    
-    # product_id = 65
-
-    # product_id = 66
-
-    # product_id = 67
-
-    # product_id = 68
-
-    # product_id = 69
-
-    # product_id = 71
-
-
-    # product_id = 72
-
-
-    # product_id = 73
-
-    # product_id = 74
-
-    # product_id = 75
-
-    # product_id = 76
+    {
+      id: 177,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 59
+    },
+    {
+      id: 178,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 59
+    },
+    {
+      id: 179,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 59
+    },
 
 
-    # product_id = 77
+    # product_id = 60
 
-
-    # product_id = 78
-
-
-    # product_id = 79
-
-
-    # product_id = 80
-
-    # product_id = 81
-
-    # product_id = 82
-
-
-    # product_id = 83
-
-    # product_id = 84
-
-    # product_id = 85
-
-    # product_id = 86
-
-    # product_id = 87
-
-    # product_id = 89
-
-    # product_id = 90
-
-    # product_id = 91
-
-    # product_id = 92
-
-    # product_id = 93
-
-    # product_id = 94
-    
-    # product_id = 95
-
-    # product_id = 96
-
-    # product_id = 97
-
-    # product_id = 98
-    
-    # product_id = 99
-
-    # product_id = 100
-
-    # product_id = 101
-
-    # product_id = 102
-
-    # product_id = 103
-
-    # product_id = 104
-
-    # product_id = 105
-
-])
-
-puts "Done seeding"
+    {
+      id: 180,
+      name: "Amazon",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 60
+    },
+    {
+      id: 181,
+      name: "Jumia",
+      price: ,
+      fee: ,
+      link: "",
+      reviews: ,
+      product_id: 60
+    },
+    {
+      id: 182,
+      name: "Ebay",
+      price: ,
+      fee: ,
+      link: "",
+      reviews:,
+      product_id: 60
+    },

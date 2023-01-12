@@ -446,62 +446,76 @@ Product.create([
 
     {
         id: 31,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Sub Woofer",
+        price: 2800,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/334837/1.jpg?1153",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/334837/2.jpg?1153",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/17/334837/1.jpg?1153",
         category: "Electronics",
     
-        desc: "" 
+        desc: "Amtec AM 808 2.1ch Subwoofer System is a brand from AMTEC with an amazing sound, Bluetooth ,USB ,FM, and super bass surround sound.
+
+        It brings your living room to life with this stylish subwoofer from AMTEC. This sound system is designed for the extreme entertainment lovers to enjoy their amazing music and movies with sound clarity never heard before. Place your order for this amazing sound system from Jumia Kenya and have it delivered to your doorstep at an amazing price
+        
+        It works as expected with a nice clarity and a thumping bass. Comprised of exclusive technologies to deliver an epic performance, It has an acoustically perfected design - making it ideal for high-performance home audio configurations. It is the perfect combination of power, sophisticated and heart-pounding bass." 
     } ,
 
     {
         id: 32,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Makeup Brushes",
+        price: 299,
+        image01: "https://image.kilimall.com/kenya/shop/store/goods/1482/2019/08/1482_06180611438678837_720.jpg.webp",
+        image02: "https://image.kilimall.com/kenya/shop/store/goods/1482/2019/08/1482_06180611603095381_720.jpg.webp",
+        image03: "https://image.kilimall.com/kenya/shop/store/goods/1482/2019/08/1482_06180611786525007_720.jpg.webp",
         category: "Beauty",
     
-        desc: "" 
+        desc: "10Pcs/Set Makeup Brushes Powder/Eye Shadow/Foundation/Concealer Brush Makeup Tools Small Size
+
+        Material: Synthetic Fiber
+        
+        Length:14cm
+        
+        Packing: 10Pcs" 
     } ,
 
     {
         id: 33,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Flash Disk",
+        price: 699,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/632592/1.jpg?6933",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/632592/2.jpg?6933",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/59/632592/2.jpg?6933",
         category: "Electronics",
     
-        desc: "" 
+        desc: "The HP 64GB Flash-disk makes it easy for you to backup your documents and multimedia files. All your files stored on it will be safe and can be easily retrieved anytime you need it. This flash drive is compatible for use on other devices like home theater systems, televisions and more. File transfer is done at a very fast rate when using this flash drive. It has a 64GB capacity which means you have adequate amount of storage space for all your important files. This HP flash drive protects your files from viruses that creep up during transfers to and from computers. It also supports energy saving mode and there is no need for external power supply." 
     } ,
 
     {
         id: 34,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "Hydrating Primer",
+        price: 1150,
+        image01: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/961734/1.jpg?0384",
+        image02: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/961734/2.jpg?0384",
+        image03: "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/98/961734/3.jpg?0384",
         category: "Beauty",
     
-        desc: "" 
+        desc: "Fit Me Matte + Poreless Primer with SPF 20 controls shine, blurs pores and extends the wear of makeup to keep your look locked in all day. The result is an instant mattifying effect that lasts up to 16 hours and poreless and flawless-looking skin. This face primer creates a smooth canvas for your makeup application and enhances the overall look of your makeup. Created to instantly perfect and fit all skin tones and types. Maybelline Fit Me Primer can be worn with or without foundation.
+
+        Maybelline New York - Fit Me Matte and Poreless primer is a melting gel cream primer that fits skin texture for a longer lasting flawless matte look. The Fit me matte + poreless primer makeup is best suited for normal to oily skin. The Maybelline Fit Me Matte and Poreless primer for oily skin has blurring powders that absorbs and controls oil. The primer fits skin texture to enhance the look of make up, diminishes look of pores, holds foundation for up to 16 hrs. and gives matte make up finish all day long. 
+        
+        It is an up to 16H mattifying face primer that instantly controls shine and blur pores for flawless-looking skin. Can be worn with or without makeup." 
     } ,
 
     {
         id: 35,
-        title: "",
-        price: ,
-        image01: "",
-        image02: "",
-        image03: "",
+        title: "ccTv",
+        price: 23000,
+        image01: "https://m.media-amazon.com/images/I/81TDyFC1c6L._AC_SY355_.jpg",
+        image02: "https://m.media-amazon.com/images/I/81K+P8cgzNL._AC_SY355_.jpg",
+        image03: "https://m.media-amazon.com/images/I/71h6K89QWVL._AC_SY355_.jpg",
         category: "Electronics",
     
-        desc: "" 
+        desc: "Human Body Detection & Audible and Visual Alarms.: HD Video without Fog & Color Night Vision: 4 bright white floodlights and 6 IR lights can clearly see every detail in the surveillance even in extreme darkness with infinite night vision range.  " 
     } ,
 
     {
